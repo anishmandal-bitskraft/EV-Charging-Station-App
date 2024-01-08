@@ -14,3 +14,17 @@
     - Google map style wizard:
         - https://mapstyle.withgoogle.com/
             - choose option with json - and customize and copy json : in this case i have kept inside utils/
+
+## 
+- Get user location
+    - expo location : https://docs.expo.dev/versions/latest/sdk/location/
+    - npx expo install expo-location
+    - in App.json
+        "plugins": [
+      [
+        "expo-location",
+        {
+          "locationAlwaysAndWhenInUsePermission": "Allow EV Station App to use your location."
+        }
+      ]
+    - 
