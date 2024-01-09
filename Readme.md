@@ -36,3 +36,5 @@
   ## 
   - Google Place AutoComplete
     - npm i react-native-google-places-autocomplete
+  
+  ## install axios
