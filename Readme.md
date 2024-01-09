@@ -32,3 +32,7 @@
   ##
   - User location marker
     - 
+  
+  ## 
+  - Google Place AutoComplete
+    - npm i react-native-google-places-autocomplete
